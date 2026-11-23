@@ -1,0 +1,186 @@
+Cześć
+Dzień dobry
+Dobry wieczór
+Dobranoc
+Do widzenia
+Pa pa
+Dziękuję
+Bardzo dziękuję
+Przepraszam
+Proszę
+Tak
+Nie
+Dobrze
+Źle
+Jak się masz?
+zero
+jeden
+dwa
+trzy
+cztery
+pięć
+sześć
+siedem
+osiem
+dziewięć
+dziesięć
+jedenaście
+dwanaście
+trzynaście
+czternaście
+piętnaście
+szesnaście
+siedemnaście
+osiemnaście
+dziewiętnaście
+dwadzieścia
+trzydzieści
+czterdzieści
+pięćdziesiąt
+sto
+tysiąc
+czerwony
+niebieski
+zielony
+żółty
+biały
+czarny
+szary
+brązowy
+różowy
+pomarańczowy
+fioletowy
+złoty
+srebrny
+jasny
+ciemny
+woda
+chleb
+mleko
+kawa
+herbata
+mięso
+ryba
+jajko
+ser
+masło
+cukier
+sól
+jabłko
+banan
+pomidor
+ziemniak
+piwo
+wino
+śniadanie
+obiad
+kolacja
+mama
+tata
+brat
+siostra
+syn
+córka
+babcia
+dziadek
+wujek
+ciotka
+mąż
+żona
+dziecko
+rodzina
+przyjaciel
+być
+mieć
+iść
+jeść
+pić
+spać
+mówić
+czytać
+pisać
+pracować
+uczyć się
+kochać
+chcieć
+móc
+wiedzieć
+Ile to kosztuje?
+Gdzie jest...?
+Jak się nazywasz?
+Nazywam się...
+Nie rozumiem
+Rozumiem
+Mów wolniej
+Gdzie toaleta?
+Pomocy!
+Smacznego
+Na zdrowie
+Wszystkiego dobrego
+Miło mi
+Nie ma sprawy
+Co słychać?
+Czy jest wolny stolik?
+Dla dwóch osób.
+Poproszę kawę.
+Z mlekiem czy bez?
+Bez mleka.
+Na miejscu czy na wynos?
+Na wynos.
+Poproszę rachunek.
+Szukam chleba.
+Ile kosztuje kilo?
+Dwa złote.
+Poproszę dwa banany.
+Czy mogę zapłacić kartą?
+Mam gotówkę.
+To wszystko.
+Poproszę paragon.
+Gdzie jest bank?
+To daleko?
+To blisko.
+Proszę iść prosto.
+W lewo.
+W prawo.
+Za rogiem.
+Po lewej stronie.
+przystanek
+bilet
+pociąg
+peron
+Bilet do Krakowa.
+W jedną stronę.
+Z którego peronu?
+Z peronu drugiego.
+dzisiaj
+jutro
+rano
+wieczorem
+Która godzina?
+Jest ósma.
+O której godzinie?
+O ósmej rano.
+pokój
+klucz
+Mam rezerwację.
+Na ile nocy?
+Na dwie noce.
+Czy jest winda?
+Gdzie jest mój pokój?
+Na drugim piętrze.
+Jak masz na imię?
+Mam na imię Anna.
+Skąd jesteś?
+Jestem z Chin.
+Gdzie mieszkasz?
+Mieszkam w Polsce.
+Mówię po chińsku.
+Uczę się polskiego.
+Mam czas.
+Masz czas?
+Nie mam czasu.
+Czytam książkę.
+Co czytasz?
+Lubię kawę.
+Lubisz kawę?
+Nie lubię kawy.
